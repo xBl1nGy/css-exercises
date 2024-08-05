@@ -3,6 +3,10 @@
     font-family: Verdana, "DejaVu Sans", sans-serif;
 }
 
+.odd.cooler {
+    font-size: 24px;
+}
+
 #two {
     color: #0011ff;
     font-size: 36px;
